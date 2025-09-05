@@ -17,4 +17,6 @@ Figma will open the file in a new tab, where you can view or edit the design.
 If you want to collaborate, consider uploading the file to a shared Figma workspace.
 GitHub does not preview .fig files, so downloading is required.
 
-<img width="1024" height="1536" alt="Fig File Download Instructions" src="https://github.com/user-attachments/assets/4a47bf3f-9688-49a1-a129-afd41e999225" />
+
+
+<img width="1024" height="1536" alt="Fig File Download Instructions" src="https://github.com/user-attachments/assets/01c36aba-4645-43c0-b25f-b79c8e4b8dc7" />
