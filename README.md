@@ -18,5 +18,4 @@ If you want to collaborate, consider uploading the file to a shared Figma worksp
 GitHub does not preview .fig files, so downloading is required.
 
 
-
-<img width="1024" height="1536" alt="Fig File Download Instructions" src="https://github.com/user-attachments/assets/01c36aba-4645-43c0-b25f-b79c8e4b8dc7" />
+<img width="1024" height="1536" alt="Fig File Download Instructions" src="https://github.com/user-attachments/assets/3d9a9e71-145d-4c8b-b1e5-80cb4153aad6" />
