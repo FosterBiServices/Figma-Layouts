@@ -19,4 +19,5 @@ GitHub does not preview .fig files, so downloading is required.
 
 
 
-<img width="1024" height="1536" alt="Fig File Download Instructions" src="https://github.com/user-attachments/assets/248bbed5-6aae-4a51-99da-e5c88567e991" />
+
+<img width="480" height="720" alt="Fig File Download Instructions" src="https://github.com/user-attachments/assets/2cbd9f5a-ba15-4ca8-bc46-859bc2ce543d" />
